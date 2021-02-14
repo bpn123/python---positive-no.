@@ -1,2 +1,2 @@
-# python---positive-no.
+# python---positive-no
 Developed by Ashutosh Mohapatra
